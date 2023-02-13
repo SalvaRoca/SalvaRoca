@@ -14,8 +14,8 @@ I started studying Industrial Engineering in 2011 at the Technical University of
 
 * 📖 Learning new hard and soft **skills**:
   - Leadership and Team Management ([MBA](https://eneb.com/master-and-postgraduate/mba-_-master-in-management-and-team-management/) and [other courses](https://courses.edx.org/certificates/f3b47e825d3448819a25cbb0ced65da2))
-  - Scrum and Project Management ([Courses](https://www.coursera.org/specializations/engineering-project-management) and continuous training)
-  - Data Science and Analytics ([Master's Degree](https://formacionhadoop.com/producto/master-online-big-data-analytics/) and [other courses](https://www.coursera.org/professional-certificates/ibm-data-science))
+  - Scrum and Project Management ([Courses](https://www.coursera.org/account/accomplishments/specialization/Z36FRSCFPMMJ) and continuous training)
+  - Data Science and Analytics ([Master's Degree](https://formacionhadoop.com/producto/master-online-big-data-analytics/) and [other courses](https://www.coursera.org/account/accomplishments/professional-cert/ULJRYH798KZU))
  
 * 🎖️ Earning relevant **certifications** that endorse my knowledge and experience:
   - [Project Management Professional (PMP)®](https://www.credly.com/badges/5d789b35-8d89-492d-8b1c-6b0f458142dc)
