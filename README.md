@@ -50,7 +50,7 @@ After all these years, I feel that I am in complete control of any project I am 
 
 ## 💬 Want to know more?
 
-In that case, you should know that cannot understand life without music. I have been playing the bass guitar since 2008, in different bands and on my own. I also enjoy grinding myself in the gym and play videogames, both always better with friends.
+In that case, you should know that cannot understand life without music. I have been playing the bass guitar since 2008, in my spare time on my own and also in different local bands. I also enjoy grinding myself in the gym and play videogames, both always better with friends.
 
 If you want to reach me for any professional project or collab, do not hesitate to contact me via [LinkedIn](https://www.linkedin.com/in/salvaroca/) and I'll be glad to answer as soon as possible.
 
