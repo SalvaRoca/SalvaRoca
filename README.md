@@ -2,7 +2,7 @@
 
 ## 👨🏻‍💻 Who am I?
 
-My name is **Salva Roca**, it's great to have you around.👋🏼
+My name is **Salva Roca**, it's great to have you around!👋🏼
 
 I originally studied Industrial Engineering at the Technical University of Cartagena (Murcia, Spain) and I started working in Project Management in August 2015, before completing my Master's Degree in 2017. Since then, I have not stopped developing myself personally and professionally by:
 
