@@ -24,7 +24,28 @@ I originally studied Industrial Engineering at the Technical University of Carta
 
 ## 🔭 Where am I today?
 
-After all these years, I feel that I am in complete control of any project I am given. In search of new challenges, I started to study Full-Stack web development on my own and discovered an interesting world, full of exciting opportunities. That's why I enrolled a [Full-Stack Development learning path provided by IBM](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer), where I have been able to develop a skill set based on the following technologies:
+After all these years, I feel that I am in complete control of any project I am given. In search of new challenges, I started to study Full-Stack web development on my own and discovered an interesting world, full of exciting opportunities. That's why I enrolled a [Full-Stack Development learning path provided by IBM](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer), which helped me develop a basic skill set with the following technologies:
+
+* Front-End
+  - HTML
+  - CSS
+  - JavaScript
+  - React.js + Redux
+  - Bootstrap
+* Back-End
+  - Node.js
+  - Express.js
+  - Python
+  - Flask
+  - Django + PostgreSQL
+* Version Control
+  - git
+  - GitHub
+* Containerization
+  - Docker
+  - Kubernetes
+  - RedHat Openshift
+* Microservices, serverless and cloud computing
 
 
 ## 💬 Want to know me a little better?
