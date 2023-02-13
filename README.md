@@ -48,7 +48,7 @@ After all these years, I feel that I am in complete control of any project I am 
 * Microservices, serverless and cloud computing
 
 
-## 💬 Want to know me a little better?
+## 💬 Want to know more?
 
 In that case, you should know that cannot understand life without music. I have been playing the bass guitar since 2008, in different bands and on my own. I also enjoy grinding myself in the gym and play videogames, both always better with friends.
 
