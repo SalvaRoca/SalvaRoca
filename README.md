@@ -24,20 +24,17 @@ I started studying Industrial Engineering in 2011 at the Technical University of
 
 ## 🔭 Where am I today?
 
-After all these years, I feel that I am in complete control of any project I am given. In search of new challenges, I started exploring Full-Stack web development on my own and discovered an interesting world, full of exciting opportunities. That's why I enrolled a [Full-Stack Development learning path provided by IBM](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer), which helped me develop a basic skill set with the following technologies:
+After all these years, I feel that I am in complete control of any project I am given. In search of new challenges, I started exploring Full-Stack web development on my own and discovered an interesting world, full of exciting opportunities. That's why I completed a [Full-Stack Development learning path provided by IBM](https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer), and recently enrolled a [Master's Degree in Software and Computer Systems Engineering]([https://www.coursera.org/professional-certificates/ibm-full-stack-cloud-developer](https://www.unir.net/ingenieria/master-ingenieria-software/)). Both helped me develop a basic skill set based on the following technologies:
 
 * Front-End
-  - HTML
-  - CSS
-  - JavaScript
+  - HTML + CSS + JavaScript
   - React.js + Redux
-  - Bootstrap
 * Back-End
   - Node.js
   - Express.js
-  - Python
   - Flask
-  - Django + PostgreSQL
+  - Django
+  - Spring Boot
 * Version Control
   - git
   - GitHub
@@ -45,7 +42,7 @@ After all these years, I feel that I am in complete control of any project I am 
   - Docker
   - Kubernetes
   - RedHat Openshift
-* Microservices, serverless and cloud computing
+* Microservices, serverless and cloud computing (Azure, AWS, IBM)
 
 
 ## 💬 Want to know more?
