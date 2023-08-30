@@ -6,7 +6,7 @@ My name is **Salva Roca**, it's great to have you around!👋🏼
 
 I started studying Industrial Engineering in 2011 at the Technical University of Cartagena (Murcia, Spain) and began my professional career in Project Management in August 2015, before completing my Master's Degree in 2017. Since then, I have not stopped developing myself personally and professionally by:
 
-* 💼 Working for more than 7 years as a **Project Manager** in diverse international highly-regulated industries, such as:
+* 💼 Working for more than 8 years as a **Project Manager** in diverse international highly-regulated industries, such as:
   - Automated Manufacturing Equipment
   - Aerospace and Military
   - Renewable Energies
